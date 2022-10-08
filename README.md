@@ -1,6 +1,6 @@
 # Assignment_2_Q1_Basic_Statistics_Level2
 
-#	Look at the data given below. Plot the data, find the outliers and find out  μ,σ,σ^2
+	Look at the data given below. Plot the data, find the outliers and find out  μ,σ,σ^2
 
 Name of company	Measure X
 Allied Signal	24.23%
